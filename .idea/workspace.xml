@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b088e2c-ed05-4742-a446-3e42300bbb8e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PlayGround$RemoveFriends.ic" NAME="RemoveFriends Coverage Results" MODIFIED="1545930310256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.htnameh.hackerearth.linkedlist.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/PlayGround$CanYouSolveIt.ic" NAME="CanYouSolveIt Coverage Results" MODIFIED="1545373443279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.htnameh.hackerearth.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/NumberSequenceUsingThreads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ensureCapacityInternal</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/RotateLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/DivideTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/LongestConsec.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/BouncingBall.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/WhereIsMyParent.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/ExtractFileName.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/TheHungerGames.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/RelativeRanks.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/SpellingBee.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/MaximumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/VasyaClerk.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/ArcParabLen.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/ShorterPath.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/Rainfall.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/Tour.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/DiophantineEquation.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/Spiral.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/ColouredPoint.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/ColouredTriangles.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/BrainfuckTranslator.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/BracesMatcher.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/SameTree.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/MinimumTimeDifference.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/codechef/XORNEY.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/kata/BuddyPairs.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/RectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/projecteuler/AmicableNumbers.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/DecodedStringAtIndex.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/Depunctuate.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/treeds/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/hackerrank/LowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/hackerrank/HuffmanDecoding.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/hackerrank/SwapNodes.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/practice/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/practice/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/practice/PrintWithoutLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/ZigZagConversion.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/designpatterns/factory/Transport.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/designpatterns/factory/Ship.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/designpatterns/factory/Truck.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/practice/MaximumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/MaximumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/MaximumProductSubarray.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/MaximumProductSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/FindTheDuplicateNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/linkedlist/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/linkedlist/SinglyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/leetcode/ReversePolishNotation.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/practice/FindUnique.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/practice/NumberToWordsConverter.java" />
+        <option value="$PROJECT_DIR$/src/com/htnameh/practice/Solve.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PlayGround" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlayGround" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlayGround" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlayGround" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PlayGround" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PlayGround" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="htnameh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Website-springbootrestservices-all-examples" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.htnameh.hackerrank" />
+      <recent name="com.htnameh.kata" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solve">
+    <configuration name="FindUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.htnameh.practice.FindUnique" />
+      <module name="PlayGround" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htnameh.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberToWordsConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.htnameh.practice.NumberToWordsConverter" />
+      <module name="PlayGround" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htnameh.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.htnameh.leetcode.ReversePolishNotation" />
+      <module name="PlayGround" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htnameh.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.htnameh.linkedlist.SinglyLinkedList" />
+      <module name="PlayGround" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htnameh.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.htnameh.practice.Solve" />
+      <module name="PlayGround" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htnameh.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solve" />
+        <item itemvalue="Application.FindUnique" />
+        <item itemvalue="Application.NumberToWordsConverter" />
+        <item itemvalue="Application.ReversePolishNotation" />
+        <item itemvalue="Application.SinglyLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b088e2c-ed05-4742-a446-3e42300bbb8e" name="Default Changelist" comment="" />
+      <created>1543896879700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543896879700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AthleticAssociationStatsTest_BasicTests - 2018.12.13 at 12h 47m 39s.xml">
+      <configuration name="AthleticAssociationStatsTest.BasicTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AthleticAssociationStatsTest_BasicTests - 2018.12.13 at 12h 49m 51s.xml">
+      <configuration name="AthleticAssociationStatsTest.BasicTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AthleticAssociationStatsTest_BasicTests - 2018.12.13 at 13h 00m 23s.xml">
+      <configuration name="AthleticAssociationStatsTest.BasicTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AthleticAssociationStatsTest_BasicTests - 2018.12.13 at 13h 01m 25s.xml">
+      <configuration name="AthleticAssociationStatsTest.BasicTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AthleticAssociationStatsTest_BasicTests - 2018.12.13 at 13h 07m 46s.xml">
+      <configuration name="AthleticAssociationStatsTest.BasicTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AthleticAssociationStatsTest_BasicTests - 2018.12.13 at 13h 08m 23s.xml">
+      <configuration name="AthleticAssociationStatsTest.BasicTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AthleticAssociationStatsTest_BasicTests - 2018.12.13 at 14h 20m 17s.xml">
+      <configuration name="AthleticAssociationStatsTest.BasicTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SockMerchantTest - 2018.12.19 at 10h 33m 36s.xml">
+      <configuration name="SockMerchantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SockMerchantTest - 2018.12.19 at 10h 33m 46s.xml">
+      <configuration name="SockMerchantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GarysHikeTest_solution - 2018.12.19 at 10h 49m 22s.xml">
+      <configuration name="GarysHikeTest.solution" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921174" />
+      <window_info anchor="bottom" x="0" y="24" width="1366" height="744" id="Run" maximized="true" order="2" sideWeight="0.49924242" weight="0.47758886" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49768162" weight="0.42194745" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32921174" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007576" side_tool="true" weight="0.45880452" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32921174" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32954547" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Coverage" order="6" sideWeight="0.5023184" side_tool="true" weight="0.44848484" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/kata/AthleticAssociationStats.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/hackerearth/linkedlist/RemoveFriends.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/hackerearth/linkedlist/RemoveFriends.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/hackerearth/monk/MonkAndInversions.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/leetcode/MyCircularQueue.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/leetcode/MyCircularQueue.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/leetcode/MyCircularQueue.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/leetcode/MyCircularQueue.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/kata/LongestConsec.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/kata/LongestConsec.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/kata/ShorterPath.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/htnameh/leetcode/DecodedStringAtIndex.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/graphs/DFS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="43" column="24" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/graphs/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-620">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/SameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/kata/ColouredTriangles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5940">
+          <caret line="396" column="20" lean-forward="true" selection-start-line="396" selection-start-column="20" selection-end-line="396" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/RectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/projecteuler/AmicableNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/kata/BuddyPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/ArrayDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="520" column="13" selection-start-line="520" selection-start-column="13" selection-end-line="520" selection-end-column="13" />
+          <folding>
+            <element signature="e#16779#16780#0" expanded="true" />
+            <element signature="e#16815#16816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/DecodedStringAtIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/hackerearth/linkedlist/CustomLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/treeds/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/hackerrank/HuffmanDecoding.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/hackerrank/LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/treeds/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#BinaryTree#0" />
+            <element signature="method#printInOrder#0;class#BinaryTree#0" />
+            <element signature="method#printPostOrder#0;class#BinaryTree#0" />
+            <element signature="method#printPreOrderWithIteration#0;class#BinaryTree#0" />
+            <element signature="method#printInOrder#1;class#BinaryTree#0" />
+            <element signature="method#printInOrderWithIteration#0;class#BinaryTree#0" />
+            <element signature="method#printPostOrder#1;class#BinaryTree#0" />
+            <element signature="method#printPostOrderWithIteration#0;class#BinaryTree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/hackerrank/SwapNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="79" column="14" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/PrintWithoutLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/sorting/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/sorting/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/BracesMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/Depunctuate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/FindPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/LargestDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/ReverseTheWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/designpatterns/factory/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/designpatterns/factory/Transport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/designpatterns/factory/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/ZigZagConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/FindTheDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/MaximumProductSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/MaximumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/leetcode/ReversePolishNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/linkedlist/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="docComment;method#push#0;class#SinglyLinkedList#0" />
+            <element signature="method#push#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#append#0;class#SinglyLinkedList#0" />
+            <element signature="method#append#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#insertAfter#0;class#SinglyLinkedList#0" />
+            <element signature="method#insertAfter#0;class#SinglyLinkedList#0" />
+            <element signature="method#search#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#deleteNode#0;class#SinglyLinkedList#0" />
+            <element signature="method#deleteNode#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#deleteNode#1;class#SinglyLinkedList#0" />
+            <element signature="method#deleteNode#1;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#deleteAll#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#reverse#0;class#SinglyLinkedList#0" />
+            <element signature="method#reverse#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#reverseRecursively#0;class#SinglyLinkedList#0" />
+            <element signature="method#reverseRecursively#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#findMiddle#0;class#SinglyLinkedList#0" />
+            <element signature="method#findMiddle#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#detectLoop#0;class#SinglyLinkedList#0" />
+            <element signature="method#detectLoop#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#countNodesInLoop#0;class#SinglyLinkedList#0" />
+            <element signature="method#countNodesInLoop#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#size#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#getSize#0;class#SinglyLinkedList#0" />
+            <element signature="method#getSize#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#printList#0;class#SinglyLinkedList#0" />
+            <element signature="method#printList#0;class#SinglyLinkedList#0" />
+            <element signature="docComment;method#printNodes#0;class#SinglyLinkedList#0" />
+            <element signature="method#printNodes#0;class#SinglyLinkedList#0" />
+            <element signature="method#Node#0;class#Node#0;class#SinglyLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/FindUnique.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="97" column="31" selection-start-line="97" selection-start-column="31" selection-end-line="97" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="378" column="24" selection-start-line="378" selection-start-column="24" selection-end-line="378" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="135" column="18" lean-forward="true" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/Solve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/NumberToWordsConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/JavaDataTypes1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/practice/ThreadColor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/Countdown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/synchronizedPractice/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/synchronizedPractice/MessageDisplayThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/synchronizedPractice/SynchronizedDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/NumberSequencePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/NumberSequenceLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/htnameh/threads/NumberSequenceUsingThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
