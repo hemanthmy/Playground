@@ -7,9 +7,15 @@ import java.util.Stack;
  * @author hemanth
  * @since 20/2/19
  */
-public class BracesMatcher {
+public class General {
 
     public static void main(String[] args) {
+//        bracesMatcher();
+//        palindrome();
+//        splitter();
+    }
+
+    private static void bracesMatcher() {
         Scanner sc = new Scanner(System.in);
 
         while (sc.hasNext()) {
@@ -48,6 +54,36 @@ public class BracesMatcher {
 
             System.out.println(result);
         }
+    }
+
+    private static void palindrome() {
+        Scanner sc = new Scanner(System.in);
+        String A = sc.next();
+
+        String result = "Yes";
+
+        for (int start = 0, end = A.length() - 1; start <= end; start++, end--) {
+            if (A.charAt(start) != A.charAt(end)) {
+                result = "No";
+                break;
+            }
+        }
+
+        System.out.println(result);
+    }
+
+    private static void splitter() {
+        Scanner scan = new Scanner(System.in);
+        String s = scan.nextLine();
+        String[] result = s.split("[^a-zA-Z]");
+
+        for (String str : result) {
+            if (!str.isEmpty()) {
+                System.out.println(str.trim());
+            }
+        }
+
+        scan.close();
     }
 
 }

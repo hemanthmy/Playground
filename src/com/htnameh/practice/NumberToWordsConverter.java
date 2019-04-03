@@ -4,39 +4,39 @@ package com.htnameh.practice;
  * @author hemanth
  * @since 15/2/19
  */
-public class NumberToWordsConverter {
+class NumberToWordsConverter {
 
-    private static final String[] SPECIAL_NAMES = {"", " thousand", " million", " billion", " trillion", " quadrillion",
+    // region ENGLISH constants
+
+    private static final String[] ENG_SPECIALS = {"", " thousand", " million", " billion", " trillion", " quadrillion",
             " quintillion"};
 
-    private static final String[] TENS_NAMES = {"", " ten", " twenty", " thirty", " forty", " fifty", " sixty",
+    private static final String[] ENG_TENS = {"", " ten", " twenty", " thirty", " forty", " fifty", " sixty",
             " seventy", " eighty", " ninety"};
 
-    private static final String[] NUMBER_NAMES = {"", " one", " two", " three", " four", " five", " six", " seven",
+    private static final String[] ENG_NUMBERS = {"", " one", " two", " three", " four", " five", " six", " seven",
             " eight", " nine", " ten", " eleven", " twelve", " thirteen", " fourteen", " fifteen", " sixteen",
             " seventeen", " eighteen", " nineteen"};
 
-    private static String convertLessThanOneThousand(int number) {
-        String current;
+    // endregion
 
-        if (number % 100 < 20) {
-            current = NUMBER_NAMES[number % 100];
-            number /= 100;
-        } else {
-            current = NUMBER_NAMES[number % 10];
-            number /= 10;
+    // region VIETNAMESE constants
 
-            current = TENS_NAMES[number % 10] + current;
-            number /= 10;
-        }
-        if (number == 0)
-            return current;
-        return NUMBER_NAMES[number] + " hundred" + current;
-    }
+    private static final String[] VIETNAMESE_SPECIALS = {"", " ngàn", " triệu", " tỷ", " nghìn tỷ", " một phần tư triệu",
+            " một triệu"};
 
-    private static String convert(int number) {
+    private static final String[] VIETNAMESE_TENS = {"", " mười", " hai mươi", " ba mươi", " bốn mươi", " năm mươi", " sáu mươi",
+            " bảy mươi", " tám mươi", " chín mươi"};
+
+    private static final String[] VIETNAMESE_NUMBERS = {"", " một", " hai", " số ba", " bốn", " số năm", " sáu", " bảy",
+            " tám", " chín", " mười", " mười một", " mười hai", " mười ba", " mười bốn", " mười lăm", " mười sáu",
+            " mười bảy", " mười tám", " mười chín"};
+
+    // endregion
+
+    static String convert(int number, boolean isEnglish) {
         if (number == 0) {
-            return "zero";
+            return isEnglish ? "zero" : "";
         }
 
         String prefix = "";
@@ -52,8 +52,8 @@ public class NumberToWordsConverter {
         do {
             int n = number % 1000;
             if (n != 0) {
-                String s = convertLessThanOneThousand(n);
-                current.insert(0, s + SPECIAL_NAMES[place]);
+                String s = convertLessThanOneThousand(n, isEnglish);
+                current.insert(0, s + getSpecialsAsWord(place, isEnglish));
             }
             place++;
             number /= 1000;
@@ -62,9 +62,34 @@ public class NumberToWordsConverter {
         return (prefix + current).trim();
     }
 
-    public static void main(String[] args) {
-        System.out.println("Number in word   : " + convert(1819));
-        System.out.println("Number in word   : " + convert(1392819));
+    private static String convertLessThanOneThousand(int number, boolean isEnglish) {
+        String current;
+
+        if (number % 100 < 20) {
+            current = getNumberAsWord(number % 100, isEnglish);
+            number /= 100;
+        } else {
+            current = getNumberAsWord(number % 10, isEnglish);
+            number /= 10;
+
+            current = getTensAsWord(number % 10, isEnglish) + current;
+            number /= 10;
+        }
+        if (number == 0)
+            return current;
+        return getNumberAsWord(number, isEnglish) + " hundred" + current;
+    }
+
+    private static String getNumberAsWord(int number, boolean isEnglish) {
+        return isEnglish ? ENG_NUMBERS[number] : VIETNAMESE_NUMBERS[number];
+    }
+
+    private static String getTensAsWord(int number, boolean isEnglish) {
+        return isEnglish ? ENG_TENS[number] : VIETNAMESE_TENS[number];
+    }
+
+    private static String getSpecialsAsWord(int number, boolean isEnglish) {
+        return isEnglish ? ENG_SPECIALS[number] : VIETNAMESE_SPECIALS[number];
     }
 
 }

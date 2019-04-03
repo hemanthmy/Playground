@@ -1,6 +1,8 @@
 package com.htnameh.practice;
 
 
+import java.util.Base64;
+
 /**
  * @author hemanth
  * @since 21/12/18
@@ -8,11 +10,13 @@ package com.htnameh.practice;
 public class Solve {
 
     public static void main(String[] args) {
-        // 00:61:FD:5F:88:63:42:41:B7:DC:7B:02:AC:6D:0B:A7:BB:0A:18:DF
+//        00:61:FD:5F:88:63:42:41:B7:DC:7B:02:AC:6D:0B:A7:BB:0A:18:DF
+//        F0:46:78:50:AC:93:94:C0:C9:B0:31:57:13:AC:5C:97:38:DB:99:83
 
-        /*byte[] sha1 = { 0x00, 0x61, (byte)0xFD, 0x5F, (byte)0x88, 0x63, 0x42, 0x41, (byte)0xB7, (byte)0xDC, (byte)0x7B, 0x02, (byte)0xAC, 0x6D, 0x0B, (byte)0xA7, (byte)0xBB, 0x0A, (byte)0x18, (byte)0xDF };
+        byte[] sha1 = {(byte) 0xF0, 0x46, (byte) 0x78, (byte) 0x50, (byte) 0xAC, (byte) 0x93, (byte) 0x90, (byte) 0xC0, (byte) 0xC9, (byte) 0xB0,
+                (byte) 0x31, (byte) 0x57, (byte) 0x13, (byte) 0xAC, (byte) 0x5C, (byte) 0x97, 0x38, (byte) 0xDB, (byte) 0x99, (byte) 0x83,};
 
-        System.out.println("keyhashGooglePlaySignIn:"+ Base64.getEncoder().encodeToString(sha1));*/
+        System.out.println("keyhashGooglePlaySignIn:" + Base64.getEncoder().encodeToString(sha1));
 
         String input = "htnameh";
 
